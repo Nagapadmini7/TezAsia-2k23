@@ -39,3 +39,7 @@ Make a Pull Request from your forked repo to this repo's main branch while menti
 2. Make all your code added to your forked repo, and then push the code to your main branch after your project is complete.
 3. Make sure to push files to your folder only.
 4. Changing or doing any edits to other folders is strictly prohibited. 
+
+## About SmartPy Nft Contract 
+
+This smartPy NFT contract is written in legacy smartpy IDE and deployed and Tested using SmartPy IDE and Depoyed NFT Contract on GhostNet.
